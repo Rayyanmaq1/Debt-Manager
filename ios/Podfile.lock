@@ -1,0 +1,67 @@
+PODS:
+  - esys_flutter_share (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - printing (1.0.0):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqlite3 (3.38.0):
+    - sqlite3/common (= 3.38.0)
+  - sqlite3/common (3.38.0)
+  - sqlite3/fts5 (3.38.0):
+    - sqlite3/common
+  - sqlite3/json1 (3.38.0):
+    - sqlite3/common
+  - sqlite3/perf-threadsafe (3.38.0):
+    - sqlite3/common
+  - sqlite3/rtree (3.38.0):
+    - sqlite3/common
+  - sqlite3_flutter_libs (0.0.1):
+    - Flutter
+    - sqlite3 (~> 3.38.0)
+    - sqlite3/fts5
+    - sqlite3/json1
+    - sqlite3/perf-threadsafe
+    - sqlite3/rtree
+
+DEPENDENCIES:
+  - esys_flutter_share (from `.symlinks/plugins/esys_flutter_share/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - printing (from `.symlinks/plugins/printing/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqlite3_flutter_libs (from `.symlinks/plugins/sqlite3_flutter_libs/ios`)
+
+SPEC REPOS:
+  trunk:
+    - sqlite3
+
+EXTERNAL SOURCES:
+  esys_flutter_share:
+    :path: ".symlinks/plugins/esys_flutter_share/ios"
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  printing:
+    :path: ".symlinks/plugins/printing/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqlite3_flutter_libs:
+    :path: ".symlinks/plugins/sqlite3_flutter_libs/ios"
+
+SPEC CHECKSUMS:
+  esys_flutter_share: 403498dab005b36ce1f8d7aff377e81f0621b0b4
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  printing: eafa00acb682c0ca029d4d98d0798f55a1e27102
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqlite3: 2c78798a817aa040981e2b0cfb4eb94523c0f55f
+  sqlite3_flutter_libs: 14a93fdcff62c6a346356df0b8e1b3f35fbab8f2
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
