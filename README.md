@@ -3,7 +3,7 @@
 <h1 align="center">Debt Manager</h1>
 
 <p align="center">
-Get Out Of Debts Fast
+Get out of debts fast
 </p>
 
 <p align="center">
@@ -23,6 +23,9 @@ Get Out Of Debts Fast
 2. Get out of debts fast.
 3. Shows you analytics data so you can see how your app performing
 4. Showcases flutter and flutter web
+
+## APK-LINK
+<a href="https://drive.google.com/file/d/1q8FR7FmZK-YdvdG6M7DtSMioxGGKwW_3/view?usp=sharing">Download apk</a>
 
 ## 📺 Preview
 
